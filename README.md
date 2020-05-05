@@ -7,6 +7,9 @@ collaboCON: [collaboCON](https://www.collabocon.io)
 
 # Other useful links:
 [Create a password file](https://www.danny-davis.com/blog//2019/01/powershell-create-password-file.html)
+
 [Azure Functions with PowerShell (Beta)](https://www.danny-davis.com/blog//2018/11/azure-functions-with-powershell.html)
+
 [Azure Functions & FTP](https://www.danny-davis.com/blog//2018/11/azure-functions-ftp-and-powershell.html)
+
 [Azure Functions how-to](https://www.danny-davis.com/blog//2019/01/azure-functions-powershell-and-how-to.html)
