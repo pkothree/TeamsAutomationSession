@@ -13,3 +13,5 @@ collaboCON: [collaboCON](https://www.collabocon.io)
 [Azure Functions & FTP](https://www.danny-davis.com/blog//2018/11/azure-functions-ftp-and-powershell.html)
 
 [Azure Functions how-to](https://www.danny-davis.com/blog//2019/01/azure-functions-powershell-and-how-to.html)
+
+[MS Docs Teams](https://docs.microsoft.com/en-us/powershell/module/teams/?view=teams-ps)
