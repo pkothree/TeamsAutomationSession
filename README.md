@@ -1,7 +1,10 @@
 # collaboCON Meetup #1
 Microsoft Teams Automation Session 05/05/2020
+
 Blog: [Danny Davis](https://www.sprocks.io)
+
 Company: [collabonists](https://www.collabonists.io)
+
 collaboCON: [collaboCON](https://www.collabocon.io)
 
 
